@@ -1,1 +1,4 @@
-"hello this is a test"
+int main() {
+	"this is a test";
+	return 0;
+}
